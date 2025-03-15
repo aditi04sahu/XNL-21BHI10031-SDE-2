@@ -3,7 +3,6 @@ Overview
 This project represents a web application developed and deployed using modern technologies. The application has been deployed on Vercel, a popular platform for static site hosting and serverless functions, and the source code is maintained in a GitHub repository with comprehensive documentation.
 
 Features
-<!-- Describe the key features of your application here. For example: -->
 Responsive design for multiple devices
 User authentication and authorization
 Real-time data processing
