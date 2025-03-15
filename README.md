@@ -14,24 +14,6 @@ Styling: CSS Modules, Tailwind CSS
 Deployment: Vercel
 Version Control: Git, GitHub
 
-Getting Started
-Prerequisites
-Node.js (v14 or higher)
-npm or yarn
-Git
-Code editor (VS Code recommended)
-Installation
-bash
-Copy
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-# Navigate to the project directory
-cd your-repo-name
-# Install dependencies
-npm install
-# Start the development server
-npm run dev
-
 Deployment
 The application is deployed on Vercel, which allows for seamless integration with GitHub and automatic deployments from the main branch. 
 
